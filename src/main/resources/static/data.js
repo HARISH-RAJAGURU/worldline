@@ -19,7 +19,7 @@ arr.forEach((item)=>{
     <td>${item.gender}</td>
     <td>${item.age}</td>
     <td>${item.pastwork}</td>
-    <td>${item.presentwork}</td>
+    <td>${item.presentWork}</td>
     <td>${item.qualification}</td>
     
     </tr>
